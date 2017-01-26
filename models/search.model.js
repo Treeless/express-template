@@ -1,0 +1,1 @@
+// Each search query made by a user gets saved here. And the associated gathering of data is also saved for learning later on.

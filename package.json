@@ -1,0 +1,35 @@
+{
+  "name": "what-is-in-that",
+  "version": "1.0.0",
+  "description": "Providing a way to answer the question, what is in that food, product, medicine etc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treeless/what-is-in-that.git"
+  },
+  "author": "Matthew Rowlandson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Treeless/what-is-in-that/issues"
+  },
+  "homepage": "https://github.com/Treeless/what-is-in-that#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "chalk": "^1.1.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^3.0.0"
+  }
+}
